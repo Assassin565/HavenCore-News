@@ -1,10 +1,17 @@
 1/9/2021 Server Change Log
 
 - Removed /Warp MindTraining
+
 - Made [Training 3] Piccolo accessible
+
 - Created more ways to obtain Dragon Balls via /Warp Namek
+
 - Approved and rejected some Suggestions
+
 - Fixed GUIs for higher resolution
+
 - Added Custom Auras for Deity Of Creation, Eternal Darkness, and 3 others
+
 - Started to create Openworld Quests
+
 - Started the production on Chapter 3 for the Custom Story
