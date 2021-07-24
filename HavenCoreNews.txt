@@ -1,6 +1,6 @@
 1/9/2021 Server Change Log
 
-- Removed /Warp MindTraining
+- Removed /Warp MindTraining /n
 - Made [Training 3] Piccolo accessible
 - Created more ways to obtain Dragon Balls via /Warp Namek
 - Approved and rejected some Suggestions
