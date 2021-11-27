@@ -1,11 +1,13 @@
 7/30/2021 Server Change Log
 
-@HavenCore Member , I am proud to announce an upcoming event for Dragon Block C Fusions! August 7th, 2021 at 3:00 PM Eastern Standard Time we will launch a Q&A session! At the start of the event, we will also be releasing the scheduled date for closed beta!
+@Fusions Member We know you were exited for a Beta release of DBC Fusions today but unfortunately we'll have to postpone release a bit longer. This is mainly due to several power outages affecting myself which delayed the work needed to finish a new HavenCore feature. It is an addon to the Custom NPC Wand made specifically for DBC in order to make life easier for our Quest Makers and to avoid server crashes from NPC Scripting. The HavenCore's DBC NPC Wand currently plans to allow for:
 
-Have any questions or concerns about the server that you would like to clarify? Want to talk about the direction of the server? Curious on if we will cover the manga or anime? If you have a question, feel free to ask it!
+1. The capability of balancing Custom NPCs like DBC Players through stats.
+2. NPCs to dodge attacks based on the DBC stat difference of who attacks it. Alternatively, you can input a manual percentage chance that the NPC would dodge with. 
+3. NPCs to do critical strike damage and allow users to adjust the chance they critically strike.
+4. Giving NPCs the ability to fly for aerial combat. Also being able to set how fast they can fly
+5. Providing NPCs with a selection of player Custom Forms, and a customizable form allowing the user to set each individual multiplier and choose what kind of aura.
+6. Allowing staff to customize and have the NPC fire Ki Attacks powered by the NPC's DBC stats
+7. The capability to run more than one command for rewards upon NPC death.
 
-We will be doing this through the new threads feature, players who could not make the initial event will have twenty four hours to utilize it before it is archived. At the end of the event, we will also be posting teasers.
-
-But wait, there is more! Alongside the Q&A, there will be two giveaways for beta testers. The first one will be on the Discord and have three winners. The second will be based on the participants list in the thread. At the end of the event, the list of participants will be put through a wheel of fortune, two winners will be selected from this. 
-
-Don't miss out on the chance to be among the first to experience the server! I can't wait to see you all there! Also, feel free to check #📰fs-teasers for a glimpse of new spawn, more to be displayed in the event!
+This is all going to be tested during Fusions Beta. However we will need some more time to iron this out. An estimate of how long it'll be delayed will be posted by @Netsu the Machiavellian later on.
