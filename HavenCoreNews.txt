@@ -1,7 +1,12 @@
-7/30/2021 Server Change Log
+12/25/2022 Server Change Log
 
-@Fusions Member This is a long awaited communication. It's about the rule of Netsu which Haven now ended. The former owner Netsu's leadership was ineffectual. He was very capable on the design side of things like modelling, story, and world building, but he had a tendency of avoiding the truth or not communicating directly. This culminated until he finally did it to Haven. Although I disagreed with the server's community silence, I had continued to develop for the server. Now I've been given this opportunity to set things right. 
+@Fusions Member 
+I know everyone is probably wondering if Fusions development is still alive, and I'm here to say yes, nothing has stopped. That being said, I wish you all a Merry Christmas and a Happy New Year along with new 📰fs-teasers to set you guys off towards the New Years! :HypedPanda: 
 
-I am here to announce that I have retaken my spot as Owner of Fusions. Fusions was once a project I had put forth a lot of time and effort into as it's original Owner. We had a bright future in terms of what was going to Fusions in terms of content. Though I had sadly become overwhelmed with being an owner and developing at the same time so I had made the decision to step down from the owner position here on Fusions. I had settled for just developing for it. But as time went on and on, my successors hadn't lived up to to the community's expectations. I couldn't accept this server's potential be thrown away.
+Mod Content
+Character Slots- This feature will replace Prestiging. Instead of extending your character's capabilities, why not start anew on a new slot with a fresh start? This feature allows you to pick and choose a slot that you've created and start with a new race, or class.
 
-That being said, Fusions has continued development. The staff and I are currently finishing up quests and some other minor npcs issues. In terms of custom content we are 90% with the mod and what we want included on it for the beta release. As for the release date, I will not give one out yet. What I can say is with the effort the staff have recently been giving me I could estimate it to be in the very near future. If you’d like to aid me with this project and seem to be qualified to do so, Staff Applications are opening up this weekend!
+Custom Wishes- Tired of the basic DBC Wish System? Use the new and improved Wish system with the Super Dragon Balls. Collect and convert Regular/Namekian Dragon Balls to obtain all seven Super Dragon Balls to summon Super Shenron.
+
+Server Content
+Builds - A Capsule Transportation build as well as a update to spawn with a Futuristic City towards the west side.
