@@ -1,12 +1,2 @@
 12/25/2022 Server Change Log
 
-@Fusions Member 
-I know everyone is probably wondering if Fusions development is still alive, and I'm here to say yes, nothing has stopped. That being said, I wish you all a Merry Christmas and a Happy New Year along with new 📰fs-teasers to set you guys off towards the New Years! :HypedPanda: 
-
-Mod Content
-Character Slots- This feature will replace Prestiging. Instead of extending your character's capabilities, why not start anew on a new slot with a fresh start? This feature allows you to pick and choose a slot that you've created and start with a new race, or class.
-
-Custom Wishes- Tired of the basic DBC Wish System? Use the new and improved Wish system with the Super Dragon Balls. Collect and convert Regular/Namekian Dragon Balls to obtain all seven Super Dragon Balls to summon Super Shenron.
-
-Server Content
-Builds - A Capsule Transportation build as well as a update to spawn with a Futuristic City towards the west side.
