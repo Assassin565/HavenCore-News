@@ -1,13 +1,26 @@
-**9/30/2023-10/1/2023 Server Change Log**
+10/4/2023-10/8/2023 Server Change Log
 
-- Released Fusions into Closed Beta
-- Whitelisted Donators and Beta Testers
-- Fixed Negative Mind after unlocking skills, as well as it's TP Costs
-- Lowered the Attribute's TP cost multiplier from x2, to x1.8
-- Fixed the Skills Upgrading button as it would kick you from in game
-- Yamcha and Krillin respawns rates have been set to 2 seconds, instead of 5.
-- Fixed a game breaking bug with Character Slots transforming you into Custom Forms
-- Fixed a game breaking bug with the custom form shop leaving Arcosian's in their Super Form
-- Updated the Technic Pack with the new hotfixes
-- Updated the news panel on the V Menu
-- Gave away more Beta Tester Ranks as celebration for of 55+ beta testers / donors who've joined 9/30/23
+- Started working on Rank Upgrades
+- Bug fixed Paid Custom Transformations level requirements
+- Edited the Rank Shop Descriptions and made the ones that gives Custom Forms say the Form Level Requirement
+- Increased the Level requirements from 40K to 65K for Paid Custom Forms
+- Fixed Party Friendly Fire option from giving the leader an incorrect message
+- OpenWorld TP Gain was doubled as it gave a lower amount
+- Created a Majin Quest throughout the mentor Babidi
+- Prevented Form Multipliers from increasing once SuperForm is upgraded - For Humans, Namekian, Majins, Arcosian's, and Bio-Android
+- Revamped Humans and Namekians forms, they're now balanced with every other races transformations, including KI Drains
+- Humans and Namekians now have more forms to keep up with the other races multipliers
+- Decreased the size of Giant Form
+- Fixed the aura sizes for Giant Form, and Oozaru's
+- Fixed KI Moves from being deleted when creating another KI Attack
+- Implemented the rest of Z Saga
+- OpenWorld is now daily instead of weekly
+- Bug fixed Openworld as it's timers were fucked up
+- Increased the amount of Zeni bosses gives
+- Lowered the Senzu Bean cost in the Food Shop
+- Training now gives Zeni
+- Bio Androids can now help with the God Ritual and the bug of them not receiving God Strain, has been fixed.
+- Removed the PlayerVaults plugin
+- Accepted suggestions and whitelisted new Beta Testers
+- Updated the Cheat Sheet
+- Added a new channel called #📖fs-superform-information which'll tell you information about every races superforms
