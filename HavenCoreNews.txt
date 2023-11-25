@@ -1,26 +1,25 @@
-10/4/2023-10/8/2023 Server Change Log
+25/2023-11/17/2023 Server Downtime Changelog
 
-- Started working on Rank Upgrades
-- Bug fixed Paid Custom Transformations level requirements
-- Edited the Rank Shop Descriptions and made the ones that gives Custom Forms say the Form Level Requirement
-- Increased the Level requirements from 40K to 65K for Paid Custom Forms
-- Fixed Party Friendly Fire option from giving the leader an incorrect message
-- OpenWorld TP Gain was doubled as it gave a lower amount
-- Created a Majin Quest throughout the mentor Babidi
-- Prevented Form Multipliers from increasing once SuperForm is upgraded - For Humans, Namekian, Majins, Arcosian's, and Bio-Android
-- Revamped Humans and Namekians forms, they're now balanced with every other races transformations, including KI Drains
-- Humans and Namekians now have more forms to keep up with the other races multipliers
-- Decreased the size of Giant Form
-- Fixed the aura sizes for Giant Form, and Oozaru's
-- Fixed KI Moves from being deleted when creating another KI Attack
-- Implemented the rest of Z Saga
-- OpenWorld is now daily instead of weekly
-- Bug fixed Openworld as it's timers were fucked up
-- Increased the amount of Zeni bosses gives
-- Lowered the Senzu Bean cost in the Food Shop
-- Training now gives Zeni
-- Bio Androids can now help with the God Ritual and the bug of them not receiving God Strain, has been fixed.
-- Removed the PlayerVaults plugin
-- Accepted suggestions and whitelisted new Beta Testers
-- Updated the Cheat Sheet
-- Added a new channel called #📖fs-superform-information which'll tell you information about every races superforms
+- Added a Block and Armourers Shop
+- Revamped most of the Training Areas appearences
+- Made a Training V2 area that holds more NPCs for players in game
+- Fixed NPC Skins that were missing in OpenWorld
+- Fixed multiple minor NPC Dialogues with gramatical errors
+- Started to implement DB Super Saga, BOG through Copy Vegeta Arc Completed
+- Made Potara defusing have a sound effect
+- Potara Fusion now has a cooldown usuage of 1 hour and will display an icon if cooldown is active
+- Increased Damage durability on DBC Clothing
+- Increased Senzu Bean amount to 64 instead of 5
+- Increased Dino Meat amount to 64 instead of 16
+- Verses System now gives TP along with 500 Zeni every 10 minutes if won
+- Fixed issues Transforming with Custom Forms
+- Fixed the tooltip displayed when hovering over a stat
+- Fixed the DBC Fusions Hud from displaying an inaccurate amount of your HP, KI, and STM.
+- Fixed the Divine effect from showing the wrong status effect
+- Made NPC Aura Quality and the DBC HUD save on the serverside so you'll no longer have to reset your HUD or aura cycle.
+- Fixed RankUpgrades from giving the legendary and divine status effect permanently for other ranks
+- Reseting slots will no longer bug you out and will provide a 30 stat bonus if you've completed the Guru Quest already
+- Canceled out Jins/Ben KI Drain system and implemented our own in preparation for Form Mastery
+- Warriors will drain 25% more and Spiritualists will drain 25% less than Balanced users
+- Made Rank stats automatically apply after creating your character
+- Implemented a Prestige System, this'll increase your base multiplier per prestige as well as the capabilities of your stats by 10K+
