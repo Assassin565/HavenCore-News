@@ -1,25 +1,36 @@
-25/2023-11/17/2023 Server Downtime Changelog
+__**Data Synchronization Server ChangeLog 12-24-23 to 12-29-23**__
+* Patched sync related duplication exploits
+* Finished a failsafe feature which will tell you to return to your last joined server if your current server could not retreive your data
+* Essentials Sync now reruns another 0.5-1.5 seconds after joining to keep up with local file changes
+* Server syncronization errors no longer false flags you after being resolved
+* The HUB server now provides us more information if you can't connect to a server
+* Individual servers now logs more information on connecting players
+* Survival World now gracefully handles dimension changes if you last came from another server
 
-- Added a Block and Armourers Shop
-- Revamped most of the Training Areas appearences
-- Made a Training V2 area that holds more NPCs for players in game
-- Fixed NPC Skins that were missing in OpenWorld
-- Fixed multiple minor NPC Dialogues with gramatical errors
-- Started to implement DB Super Saga, BOG through Copy Vegeta Arc Completed
-- Made Potara defusing have a sound effect
-- Potara Fusion now has a cooldown usuage of 1 hour and will display an icon if cooldown is active
-- Increased Damage durability on DBC Clothing
-- Increased Senzu Bean amount to 64 instead of 5
-- Increased Dino Meat amount to 64 instead of 16
-- Verses System now gives TP along with 500 Zeni every 10 minutes if won
-- Fixed issues Transforming with Custom Forms
-- Fixed the tooltip displayed when hovering over a stat
-- Fixed the DBC Fusions Hud from displaying an inaccurate amount of your HP, KI, and STM.
-- Fixed the Divine effect from showing the wrong status effect
-- Made NPC Aura Quality and the DBC HUD save on the serverside so you'll no longer have to reset your HUD or aura cycle.
-- Fixed RankUpgrades from giving the legendary and divine status effect permanently for other ranks
-- Reseting slots will no longer bug you out and will provide a 30 stat bonus if you've completed the Guru Quest already
-- Canceled out Jins/Ben KI Drain system and implemented our own in preparation for Form Mastery
-- Warriors will drain 25% more and Spiritualists will drain 25% less than Balanced users
-- Made Rank stats automatically apply after creating your character
-- Implemented a Prestige System, this'll increase your base multiplier per prestige as well as the capabilities of your stats by 10K+
+
+__**12-24-23 to 12-29-23 Server ChangeLog**__
+* Released the server
+* Fixed Gravity Training bug
+* Re-opened Survival world
+* Added the Prestige System, it's now accessible by the Tyvser NPC at spawn
+* Prevented the Prestiging System from deleting your bank data
+* Fixed Potara Fusion from turning you invisible after defuse
+* Redid Super Dragon Balls Rare Items damages
+* Increased SuperDragonBall stats wish from 8K in all to 10K in all
+* Fixed ranks that were supposed to give you Legendary, Divine Status, and custom forms
+* Fixed meditation skill, it now regens +1% per level every 10 seconds
+* Fixed God Of Destruction from skill keeping you in the form after your KI has completely been depleted
+* Lowered the upgrade cost from 1.75 to 1.65
+* Increased the Gravity Training TP gain from x2 to x2.5
+* Increased Yamcha's Krillin's, and Piccolo's TP Gain
+* Fixed the "Time Left:" from still being displayed on the base DBC Hud
+* Prevented Character Slots from crashing you after resetting a character slot
+* Prevented KI Moves from crashing the server when KI Clashing
+* Prevented the x2TP Booster from being used twice after right clicking quickly
+* Fixed the Party Menu invite character length
+* Started working of Form Mastery, 60% finished
+* Fixed the TP Booster timer hovered background
+* Stats and information on GUIs now display commas in higher numbers to prevent confusion
+* UC can now be set to any number by the player, instead of set locked numbers. Example: 1, 10, 100, 1000
+* Keys, TP Boosters, Training Points, Swords, etc that aren't owned by you will now purge from your inventory
+* Great Ape Super is now stronger than SSJG1
